@@ -1,0 +1,3 @@
+centos6
+httpd2.2
+php5.3
